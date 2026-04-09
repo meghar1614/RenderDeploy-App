@@ -118,11 +118,7 @@ build
 
 Add the following variables in Render:
 
-```
-MONGODB_URI=your_mongodb_connection_string
-PORT=10000
-JWT_SECRET=your_secret_key
-```
+MONGODB_URI=mongodb+srv://megha1404:****@cluster0.jr8x4ko.mongodb.net/renderdeploy_db
 
 ---
 
